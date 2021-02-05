@@ -3,4 +3,4 @@ Zach McIntyre
 <br>2/5/21
 <br>CMSC 335
 <br>HW0: TIC-80 Hello World
-Collaboration Statement: I worked alone on this assignment.
+<br>Collaboration Statement: I worked alone on this assignment.
